@@ -1,0 +1,12 @@
+table, tr, td {
+  border: 1px solid black;
+}
+
+h1{
+  color: blue;
+}
+
+body {
+    background-color: #F1F3F6;
+    color: #34495E;
+}

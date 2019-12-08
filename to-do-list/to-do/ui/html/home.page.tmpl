@@ -1,0 +1,33 @@
+{{template "base" .}}
+
+{{define "main"}}
+<h1>home page</h1>
+<ul>
+  <li><a href="/list/add">Add to list</a></li>
+</ul>
+{{if .Items}}
+
+<table>
+  <tr>
+    <td>ID</td>
+    <td>Item</td>
+    <td>Created</td>
+    <td>Option</td>
+  </tr>
+{{range .Items}}
+  <tr>
+    <td>{{.ID}}</td>
+    <td>{{.Item}}</td>
+    <td>{{humanDate .Created}}</td>
+    <td>
+    <form action="/list/delete/{{.ID}}" method="post">
+      <input type="submit" value="Delete">
+    </form>
+  </td>
+  </tr>
+{{end}}
+</table>
+{{else}}
+<p>There's nothing here</p>
+{{end}}
+{{end}}

@@ -1,0 +1,10 @@
+{{template "base" .}}
+
+{{define "main"}}
+<h1>create page</h1>
+<form action="/list/add" method="post">
+  <label>Add item to list</label>
+  <textarea name="item" rows="8" cols="80"></textarea>
+  <input type="submit" value="Add item">
+</form>
+{{end}}
