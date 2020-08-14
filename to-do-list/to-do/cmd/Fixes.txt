@@ -1,0 +1,90 @@
+[ Fix ]
+
+-- Info --
+
+change router/wifi settings/config (password etc..) and check traffic on it to see if there's anything unusual going on.
+search online for ways to detect its integrity
+
+fix Goldentec keyboard being used on Ubuntu/Desktop
+
+
+
+formatting windows 10 and viruses stack information security
+https://security.stackexchange.com/questions/147234/infected-pc-how-can-you-reformat-and-reinstall-windows-without-the-infection-sp#147240
+https://www.quora.com/Does-formatting-the-computer-remove-viruses?share=1
+https://security.stackexchange.com/questions/7204/is-making-a-clean-install-enough-to-remove-potential-malware
+
+
+QubesOS vs. TailsOS: which is better for privancy/security? What are their differences?
+https://security.stackexchange.com/questions/128305/is-qubes-os-more-secure-than-running-a-set-of-activity-related-vms
+https://security.stackexchange.com/questions/198558/qubes-os-or-tens-for-security-is-qubes-a-good-idea-for-a-total-beginner
+Can QubesOS (Snowden) be used as a programming machine + daily usage machine? reading infected books*, helping mitigate viruses issues?
+
+Just-in-time manufacturing: conhecimento externo pro ENEM!
+
+goldentec keyboard not responding well on ubuntu 20
+
+how to create a safe folder on windows 10 agaisnt microsoft privacy issues viruses etc.
+how to create a safe folder from viruses on windows 10
+privileged folder on Windows10 -- only accessible with password, etc..slow to access long term storage etc..
+
+how to permanently delete remove bloatware on windows 10
+
+change key mapping keyboard ubuntu 20
+How can I remap keyboard keys? [duplicate]
+https://askubuntu.com/questions/296155/how-can-i-remap-keyboard-keys
+How do I remap certain keys or devices?
+https://askubuntu.com/questions/24916/how-do-i-remap-certain-keys-or-devices/24930#24930
+
+Can i delete system partition on windows 10?
+
+Is windows defender on windows 10 good?
+
+Windows defender windows 10 how good is it
+
+How to check the integrity of my Windows 10 installation?
+
+installing windows 10 deleting all previous partition
+deleting system partition
+
+do i need the recovery partition
+
+how to check if my router has been infected
+
+removing bloatware form windows 10
+How to Remove Bloatware from Windows 10 Quickly and Easily
+https://www.maketecheasier.com/remove-bloatware-from-windows10/
+
+
+What Is the System Reserved Partition and Can You Delete It?
+https://www.howtogeek.com/192772/what-is-the-system-reserved-partition-and-can-you-delete-it/
+
+How to Check Your Router for Malware
+https://www.howtogeek.com/227384/how-to-check-your-router-for-malware/
+
+##############
+~~~~~~~~~~~~~~
+##############
+
+-- Links --
+
+https://www.qubes-os.org/intro/
+Edward Snowden
+Qubes aims at being an everyday OS where you isolate different apps from each other by giving each its own full virtual machine. It gives a nice balance of usability (your data and installed applications persist across reboots, for example) and security (things are isolated from each other, and it's quick and easy to for example, create a clean VM, paste in some sketchy links that you didn't want to open in your banking VM, and then destroy the VM).
+https://tails.boum.org/
+
+https://en.wikipedia.org/wiki/Just-in-time_manufacturing
+
+https://answers.microsoft.com/en-us/windows/forum/all/win-10-clean-install-delete-partitions/dd417ebe-ed66-49b3-b9ca-51cdabbeaaba
+
+
+
+
+
+
+
+
+
+
+
+
